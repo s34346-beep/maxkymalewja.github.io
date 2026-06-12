@@ -1,4 +1,3 @@
-// เพิ่ม JavaScript สำหรับการโต้ตอบเล็กน้อย (Optional)
+// เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใช้ (Optional)
 document.addEventListener('DOMContentLoaded', function () {
-    console.log('Portfolio ของ MAX พร้อมแล้ว!');
-});
+console.log('Portfolio ของ Thanakit พร้อมแล้ว!');
